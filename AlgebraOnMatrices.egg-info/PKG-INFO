@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: AlgebraOnMatrices
+Version: 0.0.1
+Summary: Algebric operations on matrices
+Home-page: UNKNOWN
+Author: Prerana
+Author-email: prerana.gawale@gmail.com
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: This package does basic matrix algebra such as addition, subtraction, multiplication, transpose of matrix.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
